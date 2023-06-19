@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Administrador
+ * @author Pedro Narvaez
  */
 
 class Autor {
